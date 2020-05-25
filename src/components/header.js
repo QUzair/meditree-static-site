@@ -8,13 +8,13 @@ const Header = ({siteTitle}) => (
         <div className={"container"}>
             <div className={"top-menu"}>
                 <div className={"logo"}>
-                    <Link to="/" title={"HiStaff"}>
+                    <Link to="/" title={"MediTree"}>
                         <img alt={"Logo"} src={logo}/>
                     </Link>
                 </div>
 
                 <div className={"get-started"}>
-                    <a href={"https://app.histaff.io"}>Get Started</a>
+                    <a href={"https://www.youtube.com/watch?v=nZxEjU_nAdU"}>How it Works</a>
                 </div>
             </div>
         </div>

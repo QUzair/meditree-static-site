@@ -1,6 +1,6 @@
 module.exports = {
     siteMetadata: {
-        title: `HiStaff`,
+        title: `Meditree`,
         description: `Make your Staff and Workspace Happy`,
         author: `@mostafasoufi`,
     },

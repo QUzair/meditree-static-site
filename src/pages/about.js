@@ -12,8 +12,8 @@ const AboutPage = () => (
         <SEO title="About"/>
 
         <div className={"page-header"}>
-            <h2>What’s HiStaff?</h2>
-            <p>HiStaff is a service that boost the staff’s productivity by offering new ways<br />to increase employee motivation and happiness.</p>
+            <h2>What’s MediTree?</h2>
+            <p>MediTree aims to solce operational inefficiencies in Healthcare workflows<br />to increase customer and medical staff satisfaction and make data-driven admin de.</p>
         </div>
 
         <div className={"container"}>
