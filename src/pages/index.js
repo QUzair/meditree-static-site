@@ -18,10 +18,10 @@ const IndexPage = () => (
         <SEO title="Make your Workflows Smarter" />
 
         <div className={"page-header home"}>
-            <h1>Make your Workflows<TextLoop>
+            <h1>Make your Workflows <TextLoop>
                 <div>Smarter</div>
                 <div >Faster</div>
-                <div>Cost-Efficient</div>
+                <div>Cheaper</div>
                 <div>Transparent</div>
                 <div>Automated</div>
             </TextLoop>{" "}</h1>

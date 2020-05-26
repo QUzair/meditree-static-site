@@ -1,4 +1,5 @@
 $break-small: 719px;
+$break-medium: 1200px;
 
 body {
   font-family: Inter;
@@ -94,11 +95,28 @@ body {
     &.home {
       padding-bottom: 30px;
 
-
-
       p {
         font-family: Inter;
         padding: 55px;
+      }
+
+      img {
+        width: auto;
+        height: 655px;
+      }
+
+      @media screen and (max-width: $break-small) { 
+        img {
+          width: 100%;
+          height: auto;
+        }
+      }
+
+      @media screen and (max-width: $break-medium) { 
+        img {
+          width: 100%;
+          height: auto;
+        }
       }
     }
 
@@ -114,12 +132,6 @@ body {
         max-width: 80%;
       }
     }
-  }
-
-  .makeyour {
-    position: absolute;
-    top: 0px;
-    right: 0;
   }
 
   .features {
