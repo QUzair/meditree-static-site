@@ -31,7 +31,7 @@ const IndexPage = () => (
 
         <div className={"container"}>
             <div className={"features"}>
-                <Fade bottom>
+                <Fade left>
                     <div className={"feature__item"}>
                         <div className={"row"}>
                             <div className={"col-6 first"}>
@@ -50,7 +50,7 @@ const IndexPage = () => (
                     </div>
                 </Fade>
 
-                <Fade top>
+                <Fade right>
                     <div className={"feature__item"}>
                         <div className={"row"}>
                             <div className={"col-6"}>
