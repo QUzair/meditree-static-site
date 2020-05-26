@@ -53,7 +53,7 @@ const Layout = ({ children }) => (
                                         <ul>
                                             {/* <li><Link to="/integrations/slack" title={"Integrations"}>Integrations</Link></li> */}
                                             <li><Link to="/about" title={"About Us"}>About</Link></li>
-                                            <li><a href={"https://histaff.io/blog"}>Blog</a></li>
+                                            <li><a href={"https://medium.com/@uzairqureshi804"}>Blog</a></li>
                                             <li><a className={"links__special"} href={"mailto:meditree.tech@gmail.com"} rel="noreferrer" target={"_blank"} title={"We look forward to receiving your great feedback"}>Feedback</a></li>
                                         </ul>
                                     </ul>

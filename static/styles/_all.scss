@@ -94,6 +94,8 @@ body {
     &.home {
       padding-bottom: 30px;
 
+
+
       p {
         font-family: Inter;
         padding: 55px;
@@ -112,6 +114,12 @@ body {
         max-width: 80%;
       }
     }
+  }
+
+  .makeyour {
+    position: absolute;
+    top: 0px;
+    right: 0;
   }
 
   .features {

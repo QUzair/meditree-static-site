@@ -26,16 +26,16 @@ const AboutPage = () => (
                     <div className={"col-6"}>
                         <div className={"item"}>
                             <img alt={"Information"} src={informationImage}/>
-                            <h3>Handling of Employes’s Information and documents</h3>
-                            <p>Having a human management software for businesses and startups is not always cost-effective. HiStaff allows companies to archive their employees' documents and information free of charge.</p>
+                            <h3>Prevent Data Leakage</h3>
+                            <p>Manual workflows open up several inefficiencies by using non-digital mediums. In the 20th Century mass computations on machine-readable has been a staple of our recent advances. Everyday we gain data which we can use to make better decisions for future circumstances.</p>
                         </div>
                     </div>
 
                     <div className={"col-6"}>
                         <div className={"item"}>
                             <img alt={"Event"} src={eventImage}/>
-                            <h3>Manage Events</h3>
-                            <p>How to hold internal events is one of the problems of companies. HiStaff by presenting new ideas allows event management to be done as easily as possible.</p>
+                            <h3>Manage Workflows</h3>
+                            <p>Within the busy busy schedules of Medical professinals, MediTree offers all their functionalities at their fingertips, the mobilised experience, further enhances doctor to patient time and subsequently, patient satisfaction.</p>
                         </div>
                     </div>
                 </div>
@@ -44,16 +44,16 @@ const AboutPage = () => (
                     <div className={"col-6"}>
                         <div className={"item"}>
                             <img alt={"Productivity"} src={ProductivityImage}/>
-                            <h3>Raise productivity</h3>
-                            <p>Many factors are affecting the staff's productivity in the workplace, the relationship between manager and staff and environmental factors are the main factors, therefore we will focus on these two factors in achieving our goal. Ultimately, increasing employee's productivity results in increasing the quality of products and services that are going to be provided.</p>
+                            <h3>Communication Efficacy</h3>
+                            <p>Reuqests and Results between departments can be shared easily, removing the intermediary transport of manual documents.</p>
                         </div>
                     </div>
 
                     <div className={"col-6"}>
                         <div className={"item"}>
                             <img alt={"Happiness"} src={happinessImage}/>
-                            <h3>Boost motivation and happiness</h3>
-                            <p>It is Obvious that a happy employee will make the environment happy and energetic! We are constantly attempting to provide solutions for maximizing employee’s motivation and joy.</p>
+                            <h3>Reduce Workload</h3>
+                            <p>Doctors have large daily workloads and most (40-60%), of these tasks are recurrent. Over time, MediTree can learn these tasks and provide predefined templates, which would subsequently cut 40-60% of these tasks. The templates fields would be predefine and the Doctor can approve of the fields prior to sending, rather than write them manually.</p>
                         </div>
                     </div>
                 </div>
