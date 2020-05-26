@@ -88,7 +88,7 @@ const IndexPage = () => (
                     </div>
                 </Fade>
 
-                <Fade left>
+                <Fade right>
                     <div className={"feature__item"}>
                         <div className={"row"}>
                             <div className={"col-6"}>
